@@ -1,5 +1,8 @@
-altair
+langchain
+openai
+python-dotenv
+streamlit>=1.8.1
 numpy
-pandas
-pydeck
-streamlit
+json
+os
+
